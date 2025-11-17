@@ -17,7 +17,7 @@ Sviluppare un sistema automatico di moderazione dei contenuti in grado di rileva
 - Analisi comparativa dei modelli con ottimizzazione soglia decisionale
 
 ### **Tecnologie**
-`Python · scikit-learn · scikit-multilearn · NLTK · pandas · matplotlib`
+`Python · scikit-learn · TensorFlow · Keras · NLTK · pandas · numPy · matplotlib · Seaborn · WordCloud`
 
 ### **Risultati principali**
 - Miglioramento significativo nella rilevazione classi minoritarie tramite class-weighting
@@ -49,7 +49,7 @@ Costruire una pipeline scalabile per estrarre insight strutturati da articoli Wi
 - Costruzione **heatmap di correlazione topic–categoria** per interpretazione semantica
 
 ### **Tecnologie**
-`PySpark · Spark MLlib · Pandas · Matplotlib · NLP preprocessing`
+`PySpark · Spark MLlib · Pandas · Matplotlib · Seaborn · Plotly · WordCloud` 
 
 ### **Risultati principali**
 - Identificazione automatica di macro‑argomenti dominanti nei contenuti Wikipedia
