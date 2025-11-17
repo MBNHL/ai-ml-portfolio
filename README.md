@@ -17,7 +17,7 @@ Sviluppare un sistema automatico di moderazione dei contenuti in grado di rileva
 - Analisi comparativa dei modelli con ottimizzazione soglia decisionale
 
 ### **Tecnologie**
-`Python · scikit-learn · TensorFlow · Keras · NLTK · pandas · numPy · matplotlib · Seaborn · WordCloud`
+`Python · Scikit-learn · TensorFlow · Keras · NLTK · Pandas · NumPy · Matplotlib · Seaborn · WordCloud`
 
 ### **Risultati principali**
 - Miglioramento significativo nella rilevazione classi minoritarie tramite class-weighting
