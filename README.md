@@ -54,7 +54,7 @@ Costruire una pipeline scalabile per estrarre insight strutturati da articoli Wi
 ### **Risultati principali**
 - Identificazione automatica di macro‑argomenti dominanti nei contenuti Wikipedia
 - Rappresentazione di insight strutturati tramite visualizzazioni topic–categoria
-- Pipeline progettata per scalabilità su dataset massivi: separazione Spark / Pandas per viz
+- Pipeline progettata per scalabilità su dataset massivi
 
 ### **Possibili applicazioni reali**
 - Motori di raccomandazione per contenuti
